@@ -72,12 +72,14 @@
 
 .app, .sunflower, .bookeh {
 	width: 270px;
-	height: 100px;
+	height: 150px;
 }
 
 .footer {
-	padding: 0px 60px 10px 170px;
+	padding: 0px 0px 10px 170px;
 	display: flex;
+	flex-wrap: wrap;
+	
 }
 
 figcaption {
