@@ -22,6 +22,7 @@
 	width:60px;
 	height:60px;
 }
+
 .blue{
 	background:#02b3e4;
 }
@@ -29,9 +30,11 @@
 .black{
 	background:#2d3c49;
 }
+
 .grey{
 	background:#7d97ad;
 }
+
 .div1{
 	margin-right: 10px;
 	margin-left:80px;
@@ -43,26 +46,27 @@
 	width: 60px;
 	margin-left: 200px;
 }
+
 .bodyy {
 	display: flex;
 
 }
-/*header {
-	padding: 30px 60px 20px 200px;
-}
-*/
+
 .stline {
 	margin-left: 200px;
 	margin-right: 60px;
 	height: 2px;
-	background-color: grey solid;
+	background-color: #7d97ad;	
+
 }
+
 .body-image {
-	width: 89%;
-	height: 300px;
+	width: 90%;
+	height: 350px;
 	padding: 30px 60px 20px 50px;
 
 }
+
 .title {
 	
 	padding: 10px 60px 10px 200px;
