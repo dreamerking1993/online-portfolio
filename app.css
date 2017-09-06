@@ -1,0 +1,46 @@
+.name, .job {
+	text-align: right;
+	margin-right: 60px;
+	
+}
+.logo {
+	float: left;
+	height: 60px;
+	width: 60px;
+	margin-left: 200px;
+}
+/*header {
+	padding: 30px 60px 20px 200px;
+}
+*/
+.stline {
+	margin-left: 200px;
+	margin-right: 60px;
+}
+.body-image {
+	width: 79%;
+	height: 300px;
+	padding: 30px 60px 20px 200px;
+
+}
+.title {
+	
+	padding: 10px 60px 10px 200px;
+
+}
+
+
+.app, .sunflower, .bookeh {
+	width: 270px;
+	height: 100px;
+}
+
+.div3 {
+	padding: 0px 60px 10px 170px;
+	display: flex;
+}
+
+figcaption {
+    display: block;
+    text-align: center;
+}
