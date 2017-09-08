@@ -111,3 +111,71 @@ figure {
 img {
 	max-width: 100%;
 }
+
+@media only screen and (max-width: 1250px) and (min-width: 1000px) {
+    .body-image {
+	width: 800px;
+	height: 350px;
+	padding: 30px 0px 0px 50px;
+}
+
+}
+
+@media only screen and (max-width: 1050px) and (min-width: 850px) {
+    .body-image {
+	width: 650px;
+	height: 300px;
+	padding: 30px 0px 0px 50px;
+}
+
+}
+
+@media only screen and (max-width: 900px) and (min-width: 650px) {
+    .body-image {
+	width: 450px;
+	height: 350px;
+	padding: 30px 0px 0px 50px;
+}
+
+}
+
+@media only screen and (max-width: 700px) and (min-width: 500px) {
+.div1{
+	margin-right: 5px;
+	margin-left:40px;
+}
+.box{
+	width:40px;
+	height:40px;
+}
+.body-image {
+	width: 350px;
+	height: 300px;
+	padding: 30px 0px 0px 0px;
+}
+
+}
+
+@media only screen and (max-width: 600px) {
+.body-image {
+	width: 300px;
+	height: 250px;
+	padding: 30px 0px 0px 0px;
+}
+
+.div1{
+	margin-right: 5px;
+	margin-left: 20px;
+}
+
+.box{
+	width:40px;
+	height:40px;
+}
+
+.app, .sunflower, .bookeh {
+	width: 250px;
+	height: 200px;
+}
+
+}
