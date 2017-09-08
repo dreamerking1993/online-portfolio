@@ -1,26 +1,26 @@
-.name, .job {
+.name {
 	text-align: right;
 	margin-right: 60px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px
+
 	
 }
-/*
-.input-color {
-    position: relative;
+
+.job {
+	text-align: right;
+	margin-right: 60px;
+	font-family: 'Merriweather Sans', sans-serif;
+	
 }
 
-.color-box {
-    width: 40px;
-    height: 40px;
-    display: inline-block;
-    background-color: #ccc;
-    position: absolute;
-    left: 20px;
-    top: 5px;
-}
-*/
 .box{
 	width:60px;
 	height:60px;
+}
+.text2{
+	font-size: 18px;
+	color: #686868;
 }
 
 .blue{
@@ -61,7 +61,7 @@
 }
 
 .body-image {
-	width: 90%;
+	width: 985px;
 	height: 350px;
 	padding: 30px 60px 20px 50px;
 
@@ -69,14 +69,16 @@
 
 .title {
 	
-	padding: 10px 60px 10px 200px;
+	padding: 0px 0px 0px 200px;
+	color: #888888;
+	font-size: 30px;
 
 }
 
 
 .app, .sunflower, .bookeh {
-	width: 270px;
-	height: 150px;
+	width: 307px;
+	height: 200px;
 }
 
 .footer {
@@ -89,4 +91,26 @@
 figcaption {
     display: block;
     text-align: center;
+}
+.text1 {
+	font-size: 30px;
+	
+}
+
+figure { 
+    display: block;
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.footer {
+	margin-left: 20px;
+}
+
+.header {
+	padding: 0px 0px 0px 0px;
+	display: flex;
+	flex-wrap: wrap;
+	
 }
