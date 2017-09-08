@@ -62,7 +62,7 @@
 .body-image {
 	width: 985px;
 	height: 350px;
-	padding: 30px 0px 0px 50px;
+	padding: 30px 0 0 50px;
 }
 
 .app, .sunflower, .bookeh {
@@ -88,6 +88,7 @@ figcaption {
     display: block;
     text-align: center;
 }
+
 .text1 {
 	font-size: 30px;
 	
@@ -102,7 +103,6 @@ figure {
 }
 
 .header {
-	padding: 0px 0px 0px 0px;
 	display: flex;
 	flex-wrap: wrap;
 	
@@ -116,13 +116,13 @@ img {
     .body-image {
 	width: 90%;
 	height: 330px;
-	padding: 30px 0px 0px 50px;
+	padding: 30px 0 0 50px;
 }
 
 }
 
 
-@media only screen and (max-width: 700px) and (min-width: 500px) {
+@media only screen and (max-width: 650px) and (min-width: 500px) {
 .div1{
 	margin-right: 5px;
 	margin-left:40px;
@@ -132,18 +132,19 @@ img {
 	height:40px;
 }
 .body-image {
-	width: 90%;
+	width: 450px;
 	height: 300px;
-	padding: 30px 0px 0px 0px;
+	padding: 30px 0 0 0;
+
 }
 
 }
 
 @media only screen and (max-width: 600px) {
 .body-image {
-	width: 90%;
+	width: 450px;
 	height: 250px;
-	padding: 30px 0px 0px 0px;
+	padding: 30px 0 0 0;
 }
 
 .div1{
